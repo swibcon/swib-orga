@@ -10,29 +10,29 @@ Is there an interesting service, research topic or project that you would like t
 We appreciate proposals on the following or related topics:
 
 Projects & Applications
-* integration of LOD into productive library applications
-* authorities and knowledge organization systems (thesauri, classifications, ontologies)
-* re-use of published linked library data & mash-ups (using data from different sources)
-* presenting and visualizing LOD
-* end-user environments for interaction with LOD (e.g. annotation)
-* crowdsourcing/gamification approaches involving LOD sources
-* linking research data
+    * integration of LOD into productive library applications
+    * authorities and knowledge organization systems (thesauri, classifications, ontologies)
+    * re-use of published linked library data & mash-ups (using data from different sources)
+    * presenting and visualizing LOD
+    * end-user environments for interaction with LOD (e.g. annotation)
+    * crowdsourcing/gamification approaches involving LOD sources
+    * linking research data
 
 Technology (focus on Open Source software)
-* semantically enhanced data publication
-* named entity recognition
-* data transformation/integration/cleansing/enhancement/mapping/interlinking
-* data flow management
-* searching/information retrieval
-* read/write linked data
-* linked data and library systems
+    * semantically enhanced data publication
+    * named entity recognition
+    * data transformation/integration/cleansing/enhancement/mapping/interlinking
+    * data flow management
+    * searching/information retrieval
+    * read/write linked data
+    * linked data and library systems
 
 Standards & Best Practices
-* open web standards relevant for libraries
-* application profiles & provenance information
-* providing updates & syncing data sources
-* preservation & sustainability
-* open data licensing
+    * open web standards relevant for libraries
+    * application profiles & provenance information
+    * providing updates & syncing data sources
+    * preservation & sustainability
+    * open data licensing
 
 We are looking forward to receiving your proposals for presentations or workshops by *8 May 2016*.
 Please submit an abstract of 1000-1500 characters using our website at
@@ -40,18 +40,18 @@ https://www.conftool.net/swib16.
 
 Proposals will be reviewed by the SWIB programme committee:
 
-* Uldis Bojars (National Library of Latvia)
-* Valentine Charles (Europeana Foundation, Netherlands)
-* Christina Harlow (Cornell University Library, USA)
-* Jana Hentschke (German National Library)
-* Anja Jentzsch (HPI, Germany)
-* Niklas Lindström (National Library of Sweden)
-* Joachim Neubert (ZBW, Germany - Chair)
-* Adrian Pohl (hbz, Germany - Chair)
-* Dorothea Salo (UW-Madison, USA)
-* MJ Suhonos (Ryerson University, Canada)
-* Osma Suominen (National Library of Finland)
-* Jakob Voß (GBV Common Library Network, Germany)
+    * Uldis Bojars (National Library of Latvia)
+    * Valentine Charles (Europeana Foundation, Netherlands)
+    * Christina Harlow (Cornell University Library, USA)
+    * Jana Hentschke (German National Library)
+    * Anja Jentzsch (HPI, Germany)
+    * Niklas Lindström (National Library of Sweden)
+    * Joachim Neubert (ZBW, Germany - Chair)
+    * Adrian Pohl (hbz, Germany - Chair)
+    * Dorothea Salo (UW-Madison, USA)
+    * MJ Suhonos (Ryerson University, Canada)
+    * Osma Suominen (National Library of Finland)
+    * Jakob Voß (GBV Common Library Network, Germany)
 
 We also have space left for satellite events in the morning of 28 November. Contact us if you want to seize the opportunity to get together in the context of SWIB16.
 
