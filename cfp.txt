@@ -1,43 +1,50 @@
-Call for Proposals: SWIB14 - Semantic Web in Libraries Conference 1.12. - 3.12.2014, Bonn, Germany
+Call for Proposals: SWIB15 - Semantic Web in Libraries Conference
+23.11. - 25.11.2015, Hamburg, Germany
 
-The SWIB conference (Semantic Web in Libraries, German: "Semantic Web in Bibliotheken") is an annual conference focusing on Semantic Web and Linked Open Data (LOD) in the library world. It is held by turns in the Cologne region and Hamburg. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas. SWIB mainly targets IT staff, developers, librarians and researchers.
+The SWIB conference (Semantic Web in Libraries, German: "Semantic Web in Bibliotheken") is an annual conference focusing on Semantic Web and Linked Open Data (LOD) in libraries and related organisations. It is held in Germany, by turns in the Cologne region and Hamburg. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas. SWIB mainly targets IT staff, developers, librarians and researchers.
 
-As in prior years, SWIB14 will be organized by the North Rhine-Westphalian Library Service Centre (hbz) and the ZBW - German National Library of Economics / Leibniz Information Centre for Economics. The conference language is English.
+As in prior years, SWIB15 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
 
-Is there an interesting service, research topic or project that you would like to present at the conference? Or would you like to offer a pre-conference tutorial or workshop on the afternoon of 1 December? We appreciate proposals on the following or related topics:
+Is there an interesting service, research topic or project that you would like to present at the conference? Would you like to offer a pre-conference tutorial or workshop on the afternoon of 23 November?
+
+We appreciate proposals on the following or related topics:
 
 Projects & Applications
 
 * integration of LOD into productive library applications
 * authorities and knowledge organization systems (thesauri, classifications, ontologies)
-* mash-ups (using data from different sources)
+* re-use of published linked library data & mash-ups (using data from different sources)
 * presenting and visualizing LOD
 * end-user environments for interaction with LOD (e.g. annotation)
 * crowdsourcing/gamification approaches involving LOD sources
+* linking research data
 
 Technology (focus on Open Source software)
 
 * semantically enhanced data publication
-* data transformation/integration/enhancement/mapping
+* data transformation/integration/enhancement/mapping/interlinking
 * searching/information retrieval
-* linked data in library systems
+* read/write linked data
+* linked data and library systems
 
 Standards & Best Practices
 
-* RDF, JSON-LD, BIBFRAME & other open standards for libraries
+* open web standards relevant for libraries
 * application profiles & provenance information
 * providing updates & syncing data sources
+* preservation & sustainability
 * open data licensing
 
-We are looking forward to receiving your proposals by *18 May 2014*. Please submit an abstract of 1000-1500 characters using our website at https://www.conftool.net/swib14.
+We are looking forward to receiving your proposals for presentations and workshops by *17.05.2015*.
+Please submit an abstract of 1000-1500 characters using our website at https://www.conftool.net/swib15.
 
-For the first time, this year's propsals will be reviewed by an international programme committee:
+Proposals will be reviewed by the SWIB programme committee:
 
 - Uldis Bojars (National Library of Latvia)
 - Valentine Charles (Europeana Foundation, Netherlands)
 - Karen Coyle (Consultant, USA)
 - Sarah Hartmann (German National Library)
-- Anja Jentzsch (HPI, Germany) 
+- Anja Jentzsch (HPI, Germany)
 - Niklas Lindström (National Library of Sweden)
 - Joachim Neubert (ZBW, Germany - Chair)
 - Adrian Pohl (hbz, Germany - Chair)
@@ -46,23 +53,24 @@ For the first time, this year's propsals will be reviewed by an international pr
 - Osma Suominen (National Library of Finland)
 - Jakob Voß (GBV Common Library Network, Germany)
 
-Website: http://swib.org/swib14
-Hashtag: #swib14
+We also have space left for satellite events in the morning of 23 November. Contact us if you want to seize the opportunity to get together in the context of SWIB15.
+
+Website: http://swib.org/swib15
+Hashtag: #swib15
 Twitter: @swibcon
 
-If you want to look at previous SWIB conferences:
-http://swib.org/swib14/history.php
+If you want to look at previous SWIB conferences: http://swib.org/swib15/history.php
 
 Please don't hesitate to ask if you have any questions:
-
-Adrian Pohl
-hbz
-Tel. +49-(0)221-40075235
-E-mail: swib(at)hbz-nrw.de
-
-or
 
 Joachim Neubert
 ZBW
 Tel. +49-(0)40-42834462
 E-mail: j.neubert(at)zbw.eu
+
+or
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de 
