@@ -1,0 +1,33 @@
+Call for Participation
+ 
+Nach den erfolgreichen Veranstaltungen "Semantic Web in Bibliotheken" (SWIB) 2009 und 2010 wird die SWIB11 vom 28. - 30.11.2011 in Hamburg stattfinden. Die Konferenz wird erneut ausgerichtet vom Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz), Köln und der Deutschen Zentralbibliothek für Wirtschaftswissenschaften - Leibniz- Informationszentrum Wirtschaft (ZBW), Kiel und Hamburg.
+ 
+Immer mehr Akteure in der Bibliothekswelt und aus angrenzenden Bereichen experimentieren mit Semantic-Web-Technologien und Linked Open Data (LOD). Während die LOD-Cloud als Ganzes in 2010 um 300% gewachsen ist, nahm die Menge an bibliothekarisch relevanten Daten um beinahe 1000% zu. Begleitend zu dieser Entwicklung hat das W3C eine "Linked Library Data"-Gruppe eingerichtet, die voraussichtlich im August einen ersten Bericht veröffentlicht. Die "Semantic Web Special Interest Group" bei der IFLA zeigt, dass das Thema inzwischen auch dort angekommen ist. Parallel hierzu werden Prinzipien und Abläufe der traditionellen Wissenschaftskommunikation und -publikation hinterfragt zugunsten einer konsequent webbasierten, den gesamten Forschungs- und Publikationsprozess umgreifenden Daten- und Serviceinfrastruktur. Konzepte wie "Nanopublikationen", "Semantic Publishing", "Open Data", "Enhanced Publications" oder "Research Objects" markieren die Abkehr von monolithischen, relativ unflexiblen und wenig vernetzten Bezugspunkten wissenschaftlichen Arbeitens hin zu einer verteilten, relativ granularen Dateninfrastruktur, auf die Forschende laufend zurückgreifen bzw. in die ihre Beiträge als solche erkennbar zurückfließen.
+ 
+Themen und Fragestellungen, die wir mit Ihnen auf der Konferenz diskutieren möchten:
+ 
+* Wie finde ich mich in der LOD-Cloud zurecht und wie werde ich mit meinen eigenen Beständen dort möglichst sichtbar?
+* Wie stellen wir nützliche Verlinkungen mit und unter den neu eröffentlichten Datensets her?
+* Wo gibt es herausragende Beispiele für LOD-basierte Anwendungen, die den Mehrwert einer Verknüpfung insbesondere von Domänen übergreifenden Beständen demonstrieren?
+* Wie entwickelt sich die Kommunikation in der Wissenschaft? Was bedeutet die Transformation der traditionellen Forschungs- und Publikationsprozesse für die Bibliotheken und welche Chancen eröffnet Linked Open Data hier?
+* Bibliothekarische Normdaten und ihr Potenzial als LOD für Bibliotheksanwendungen oder Forschungsinformationssysteme
+* Wie kann und soll eine zukünftige Linked-Open-Data-Infrastruktur aussehen? Welche Tendenzen gibt es, z. B. Bibliotheksanwendungen oder Forschungsumgebungen an das Semantic Web zu adaptieren und ihre Anwender etwa bei der Publikation in RDF zu unterstützen?
+* Offene Lizenzen als Voraussetzung für LOD-basierte Infrastrukturen
+* Wie werden das W3C und andere internationale sowie nationale Gremien die weitere Entwicklung unterstützen?
+ 
+Das sind unsere Themen für die SWIB11. Können Sie von einem interessanten Projekt oder Forschungsthema berichten, das auf der Tagung vorgestellt werden sollte? Wir freuen uns auf Anregungen und Proposals für Beiträge (mit einem kurzen, maximal einseitigen Abstract) bis zum 20. Juni 2010. Die Konferenzsprache ist Deutsch - Beiträge auf Englisch sind jedoch willkommen. Bitte elektronisch senden an:
+ 
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-Mail: j.neubert(at)zbw.eu
+ 
+oder
+ 
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-Mail: swib(at)hbz-nrw.de
+ 
+Website: http://swib.org/swib11
+Twitter: #swib11
