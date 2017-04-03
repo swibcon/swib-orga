@@ -2,7 +2,7 @@ Call for Proposals: SWIB17 - Semantic Web in Libraries Conference
 4.12. - 6.12.2017, Hamburg, Germany
 Submission Deadline: 7 May 2017
 
-SWIB conference (Semantic Web in Libraries) is an annual conference focusing on Linked Open Data (LOD) in libraries and related organizations.It is well received as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
+SWIB conference (Semantic Web in Libraries) is an annual conference focusing on Linked Open Data (LOD) in libraries and related organizations. It is well received as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
 As in prior years, SWIB17 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
 
