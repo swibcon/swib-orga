@@ -47,6 +47,7 @@ Proposals will be reviewed by the SWIB programme committee:
     * Jana Hentschke (German National Library)
     * Anja Jentzsch (HPI, Germany)
     * Niklas Lindström (National Library of Sweden)
+    * Devika P. Madalli (Indian Statistical Institute)
     * Joachim Neubert (ZBW, Germany - Chair)
     * Adrian Pohl (hbz, Germany - Chair)
     * Dorothea Salo (UW-Madison, USA)
