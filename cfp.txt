@@ -37,7 +37,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *7 May 2017*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib17. If your intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *14 May 2017*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib17. If your intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
@@ -47,7 +47,7 @@ Proposals will be reviewed by the SWIB programme committee:
     * Jana Hentschke (German National Library)
     * Anja Jentzsch (HPI, Germany)
     * Niklas Lindström (National Library of Sweden)
-    * Devika P. Madalli (Indian Statistical Institute)
+    * Devika Madalli (Indian Statistical Institute)
     * Joachim Neubert (ZBW, Germany - Chair)
     * Adrian Pohl (hbz, Germany - Chair)
     * Dorothea Salo (UW-Madison, USA)
