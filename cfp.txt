@@ -40,7 +40,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *14 May 2017*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib17. If your intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *14 May 2017*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib17. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
