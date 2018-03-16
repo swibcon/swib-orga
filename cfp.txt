@@ -1,15 +1,15 @@
-Subject: [CfP] SWIB17 - Semantic Web in Libraries Conference, Hamburg, 4-6 December
+Subject: [CfP] SWIB18 - Semantic Web in Libraries Conference, Bonn, 26-28 November
 
-Call for Proposals: SWIB17 - Semantic Web in Libraries Conference 
-4.12. - 6.12.2017, Hamburg, Germany
+Call for Proposals: SWIB18 - Semantic Web in Libraries Conference
+26.11. - 28.11.2018, Bonn, Germany
 
-Submission Deadline: 14 May 2017
+Submission Deadline: 13 May 2018
 
 SWIB conference (Semantic Web in Libraries) is an annual conference focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
-As in prior years, SWIB17 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
+As usual, SWIB18 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
 
-Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of December 4? 
+Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 26? 
 
 We appreciate proposals on the following or related topics:
 
@@ -17,9 +17,9 @@ Projects & Applications
 
     * integration of LOD into productive library applications
     * authorities & knowledge organization systems (thesauri, classifications, ontologies)
-    * re-use of published linked library data & mash-ups (using data from different sources)
+    * re-use of LOD (from libraries, Wikidata and other sources)
     * presenting & visualizing LOD
-    * end-user environments for interaction with LOD (e.g. annotation)
+    * end-user environments for interaction with LOD (e.g. editing or annotation)
     * crowdsourcing/gamification approaches involving LOD sources
     * linked research & open science
 
@@ -40,7 +40,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *14 May 2017*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib17. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *13 May 2018*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib18. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
@@ -58,24 +58,24 @@ Proposals will be reviewed by the SWIB programme committee:
     * Osma Suominen (National Library of Finland)
     * Jakob Voß (GBV Common Library Network, Germany)
 
-We also have space left for satellite events in the morning of December 4. Contact us if you want to seize the opportunity to get together in the context of SWIB17.
+We also have space left for satellite events in the morning of November 26. Contact us if you want to seize the opportunity to get together in the context of SWIB18.
 
-Website: http://swib.org/swib17
-Hashtag: #swib17
+Website: http://swib.org/swib18
+Hashtag: #swib18
 Twitter: @swibcon
  
-Take a look at previous SWIB conferences at http://swib.org/swib17/history.
+Take a look at previous SWIB conferences at http://swib.org/swib18/history.
  
 Please don't hesitate to ask if you have any questions:
  
-Joachim Neubert
-ZBW
-Tel. +49-(0)40-42834462
-E-mail: j.neubert(at)zbw.eu
-
-or
-
 Adrian Pohl
 hbz
 Tel. +49-(0)221-40075235
 E-mail: swib(at)hbz-nrw.de
+
+or
+
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
