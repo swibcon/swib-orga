@@ -28,6 +28,7 @@ Technology (focus on Open Source software)
     * semantically enhanced data publication
     * machine learning for automatic indexing & named entity recognition
     * data transformation/integration/cleansing/enhancement/mapping/interlinking
+    * RDF validation
     * data flow management
     * read/write linked data
     * linked data & library systems
