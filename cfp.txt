@@ -1,11 +1,11 @@
-Subject: [CfP] SWIB18 - Semantic Web in Libraries Conference, Bonn, 26-28 November
+Subject: [CfP] SWIB18 - 10th Semantic Web in Libraries Conference, Bonn, 26-28 November
 
-Call for Proposals: SWIB18 - Semantic Web in Libraries Conference
+Call for Proposals: SWIB18 - 10th Semantic Web in Libraries Conference
 26.11. - 28.11.2018, Bonn, Germany
 
 Submission Deadline: 13 May 2018
 
-SWIB conference (Semantic Web in Libraries) is an annual conference focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
+SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 10th time, focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
 As usual, SWIB18 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
 
