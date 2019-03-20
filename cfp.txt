@@ -3,7 +3,7 @@ Subject: [CfP] SWIB19 - 11th Semantic Web in Libraries Conference, Hamburg, 25-2
 Call for Proposals: SWIB19 - 10th Semantic Web in Libraries Conference
 25.11. - 27.11.2019, Bonn, Germany
 
-Submission Deadline: 13 May 2019 ????
+Submission Deadline: 13 May 2019 ???? (+ below!)
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 10th time, focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
@@ -41,7 +41,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *13 May 2018*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib19. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *13 May 2019*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib19. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
