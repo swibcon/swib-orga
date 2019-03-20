@@ -1,15 +1,15 @@
-Subject: [CfP] SWIB18 - 10th Semantic Web in Libraries Conference, Bonn, 26-28 November
+Subject: [CfP] SWIB19 - 11th Semantic Web in Libraries Conference, Hamburg, 25-27 November
 
-Call for Proposals: SWIB18 - 10th Semantic Web in Libraries Conference
-26.11. - 28.11.2018, Bonn, Germany
+Call for Proposals: SWIB19 - 10th Semantic Web in Libraries Conference
+25.11. - 27.11.2019, Bonn, Germany
 
-Submission Deadline: 13 May 2018
+Submission Deadline: 13 May 2019 ????
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 10th time, focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB18 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
+As usual, SWIB19 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
 
-Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 26? 
+Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 25? 
 
 We appreciate proposals on the following or related topics:
 
@@ -41,7 +41,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *13 May 2018*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib18. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *13 May 2018*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.net/swib19. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
@@ -58,24 +58,24 @@ Proposals will be reviewed by the SWIB programme committee:
     * Osma Suominen (National Library of Finland)
     * Jakob Voß (GBV Common Library Network, Germany)
 
-We also have space left for satellite events in the morning of November 26. Contact us if you want to seize the opportunity to get together in the context of SWIB18.
+We also have space left for satellite events in the morning of November 25. Contact us if you want to seize the opportunity to get together in the context of SWIB19.
 
-Website: http://swib.org/swib18
-Hashtag: #swib18
+Website: http://swib.org/swib19
+Hashtag: #swib19
 Twitter: @swibcon
  
-Take a look at previous SWIB conferences at http://swib.org/swib18/history.
+Take a look at previous SWIB conferences at http://swib.org/swib19/history.
  
 Please don't hesitate to ask if you have any questions:
  
-Adrian Pohl
-hbz
-Tel. +49-(0)221-40075235
-E-mail: swib(at)hbz-nrw.de
-
-or
-
 Joachim Neubert
 ZBW
 Tel. +49-(0)40-42834462
 E-mail: j.neubert(at)zbw.eu
+
+or
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
