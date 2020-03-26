@@ -1,15 +1,26 @@
-Subject: [CfP] SWIB19 - 11th Semantic Web in Libraries Conference, Hamburg, 25-27 November
+Subject: [CfP] SWIB20 - 12th Semantic Web in Libraries Conference, Bonn, 23-25 November
 
-Call for Proposals: SWIB19 - 11th Semantic Web in Libraries Conference
-25.11. - 27.11.2019, Hamburg, Germany
+Call for Proposals: SWIB20 - 12th Semantic Web in Libraries Conference
+23.11. - 25.11.2020, Bonn, Germany
 
-Submission Deadline: 12 May 2019
+Submission Deadline: 12 May 2020
 
-SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 11th time, focusing on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB19 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
++++What about Corona?+++
 
-Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 25? 
+As the ongoing Corona pandemic is a big issue for every conference organizazion, we are addressing it at the beginning of this call.
+
+ SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 12th time. Until now, each rendition of SWIB has taken place as a classical conference with participants appearing in-person at the venue and engaging in workshops and conference talks. With the ongoing Corona pandemic and the accompanying uncertainties with regard to the freedoms of movement and assembly, we can not rely on carrying out the conference as usual. We will take these uncertainties into account in the best possible way so that everyone with an interest in SWIB will be able to present and listen to presentations and deepen their skills in hands-on workshops.
+
+ For now, we will continue planning for a physical conference in Bonn to be flanked by opportunities of online participation for all those who may not be able to attend. In addition, we will prepare for a cancellation of the physical event by looking into possible online formats.
+
+++++++
+
+SWIB focuses on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
+
+As usual, SWIB20 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
+
+Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 23?
 
 We appreciate proposals on the following or related topics:
 
@@ -42,7 +53,7 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *12 May 2019*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.org/swib19. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by *12 May 2020*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.org/swib20. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
@@ -59,24 +70,24 @@ Proposals will be reviewed by the SWIB programme committee:
     * Osma Suominen (National Library of Finland)
     * Jakob Voß (GBV Common Library Network, Germany)
 
-We also have space left for satellite events in the morning of November 25. Contact us if you want to seize the opportunity to get together in the context of SWIB19.
+We also have space left for satellite events in the morning of November 25. Contact us if you want to seize the opportunity to get together in the context of SWIB20.
 
-Website: http://swib.org/swib19
-Hashtag: #swib19
+Website: http://swib.org/swib20
+Hashtag: #swib20
 Twitter: @swibcon
  
-Take a look at previous SWIB conferences at http://swib.org/swib19/history.
+Take a look at previous SWIB conferences at http://swib.org/swib20/history.
  
 Please don't hesitate to ask if you have any questions:
  
-Joachim Neubert
-ZBW
-Tel. +49-(0)40-42834462
-E-mail: j.neubert(at)zbw.eu
-
-or
-
 Adrian Pohl
 hbz
 Tel. +49-(0)221-40075235
 E-mail: swib(at)hbz-nrw.de
+
+or
+
+Joachim Neubert
+ZBW
+Tel. +49-(0)40-42834462
+E-mail: j.neubert(at)zbw.eu
