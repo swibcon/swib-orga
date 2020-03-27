@@ -6,15 +6,7 @@ Call for Proposals: SWIB20 - 12th Semantic Web in Libraries Conference
 Submission Deadline: 12 May 2020
 
 
-+++What about Corona?+++
-
-As the ongoing Corona pandemic is a big issue for every conference organizazion, we are addressing it at the beginning of this call.
-
- SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 12th time. Until now, each rendition of SWIB has taken place as a classical conference with participants appearing in-person at the venue and engaging in workshops and conference talks. With the ongoing Corona pandemic and the accompanying uncertainties with regard to the freedoms of movement and assembly, we can not rely on carrying out the conference as usual. We will take these uncertainties into account in the best possible way so that everyone with an interest in SWIB will be able to present and listen to presentations and deepen their skills in hands-on workshops.
-
- For now, we will continue planning for a physical conference in Bonn to be flanked by opportunities of online participation for all those who may not be able to attend. In addition, we will prepare for a cancellation of the physical event by looking into possible online formats.
-
-++++++
+SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 12th time. With the ongoing Corona/Covid-19 pandemic and the restrictions to the freedom of movement and assembly in many countries, we currently don’t know if it will be possible to hold it this year as a classical conference with participants appearing in-person at the venue and engaging in workshops and conference talks. Taking this uncertainty into account, we will continue planning for a physical conference in Bonn to be flanked by opportunities of online participation for all those who may not be able to attend. In addition, we will prepare for the case that physical event has to be cancelled and replaced by an online-only format. Our aim is that everyone with an interest in SWIB20 will be able to present and listen to presentations and deepen their skills in workshops, one way or other.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
