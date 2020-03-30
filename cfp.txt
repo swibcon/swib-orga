@@ -5,14 +5,36 @@ Call for Proposals: SWIB20 - 12th Semantic Web in Libraries Conference
 
 Submission Deadline: 12 May 2020
 
+SWIB conference (Semantic Web in Libraries) is an annual conference, being held
+for the 12th time. With the ongoing Corona/Covid-19 pandemic and the
+restrictions to the freedom of movement and assembly in many countries, we
+currently don’t know if it will be possible to hold it this year as a classical
+conference with participants appearing in-person at the venue and engaging in
+workshops and conference talks. Taking this uncertainty into account, we will
+continue planning for a physical conference in Bonn to be flanked by
+opportunities of online participation for all those who may not be able to
+attend. In addition, we will prepare for the case that physical event has to be
+cancelled and replaced by an online-only format. Our aim is that everyone with
+an interest in SWIB20 will be able to present and listen to presentations and
+deepen their skills in workshops, one way or other.
 
-SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 12th time. With the ongoing Corona/Covid-19 pandemic and the restrictions to the freedom of movement and assembly in many countries, we currently don’t know if it will be possible to hold it this year as a classical conference with participants appearing in-person at the venue and engaging in workshops and conference talks. Taking this uncertainty into account, we will continue planning for a physical conference in Bonn to be flanked by opportunities of online participation for all those who may not be able to attend. In addition, we will prepare for the case that physical event has to be cancelled and replaced by an online-only format. Our aim is that everyone with an interest in SWIB20 will be able to present and listen to presentations and deepen their skills in workshops, one way or other.
+SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
+It is well established as an event where IT staff, developers, librarians, and
+researchers from over the world meet and mingle and learn from each other. The
+topics of talks and workshops at SWIB revolve around opening data, linking data
+and creating tools and software for LOD production scenarios. These areas of
+focus are supplemented by presentations of research projects in applied
+sciences, industry applications, and LOD activities in other areas.
 
-SWIB focuses on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
+As usual, SWIB20 will be organized by the ZBW - German National Library of
+Economics / Leibniz Information Centre for Economics and the North
+Rhine-Westphalian Library Service Centre (hbz). The conference language is
+English.
 
-As usual, SWIB20 will be organized by the ZBW - German National Library of Economics / Leibniz Information Centre for Economics and the North Rhine-Westphalian Library Service Centre (hbz). The conference language is English.
-
-Would you like to share your experiences working on an interesting service, research topic or project – not just what you did, but also how you did it? Would you like to offer a hands-on pre-conference tutorial or workshop on the afternoon of November 23?
+Would you like to share your experiences working on an interesting service,
+research topic or project – not just what you did, but also how you did it?
+Would you like to offer a hands-on pre-conference tutorial or workshop on the
+afternoon of November 23?
 
 We appreciate proposals on the following or related topics:
 
@@ -45,7 +67,12 @@ Standards & Best Practices
     * preservation & sustainability
     * open data licensing
 
-We are looking forward to receiving your proposals for presentations or workshops by *12 May 2020*. Please submit an abstract of 1000-1500 characters using our conference system at https://www.conftool.org/swib20. If you intend to present a specific software solution please include links to the source code repository and make sure it is openly licensed (https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or
+workshops by *12 May 2020*. Please submit an abstract of 1000-1500 characters
+using our conference system at https://www.conftool.org/swib20. If you intend to
+present a specific software solution please include links to the source code
+repository and make sure it is openly licensed
+(https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
@@ -62,7 +89,9 @@ Proposals will be reviewed by the SWIB programme committee:
     * Osma Suominen (National Library of Finland)
     * Jakob Voß (GBV Common Library Network, Germany)
 
-We also have space left for satellite events in the morning of November 25. Contact us if you want to seize the opportunity to get together in the context of SWIB20.
+We also have space left for satellite events in the morning of November 25.
+Contact us if you want to seize the opportunity to get together in the context
+of SWIB20.
 
 Website: http://swib.org/swib20
 Hashtag: #swib20
