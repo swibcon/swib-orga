@@ -36,7 +36,7 @@ research topic or project – not just what you did, but also how you did it?
 For this SWIB rendition we adjusted the formats to the online environment:
 
 - Presentations (20 minutes plus 5 q&a)
-- Practical workshops or tutorials with hands-on or instructional learning (maximum 120 min)
+- Practical workshops or tutorials (maximum 120 min)
 
 We appreciate proposals on the following or related topics:
 
@@ -93,8 +93,8 @@ Proposals will be reviewed by the SWIB programme committee:
     * Katherine Thornton (Yale University Library, USA) 
     * Jakob Voß (GBV Common Library Network, Germany)
 
-If you are interested in using the online conference infrastructure for a satellite event
-before or after the conference slot, let us know.
+If you are interested in using the online conference infrastructure for a satellite
+event before or after the conference slot, let us know.
 
 Website: http://swib.org/swib20
 Hashtag: #swib20
