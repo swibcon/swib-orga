@@ -2,18 +2,18 @@ Subject: [CfP] SWIB20 online conference - 12th Semantic Web in Libraries Confere
 
 Call for Proposals: SWIB20 online conference - 12th Semantic Web in Libraries Conference
 23.11. - 27.11.2020, UTC UTC 14:00-16:30
-Submission Deadline: 20 July 2020
+Submission Deadline: 13 July 2020
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
 for the 12th time.
 
 Due to the Covid-19 pandemic, we cannot be sure that travelling and meeting
-face-to-face will be possible for everybod in the community by November. Therefore,
+face-to-face will be possible for everybody in the community by November. Therefore,
 we have decided to hold SWIB20 within the scheduled timeframe not in Bonn, Germany,
 but for the first time on the web. This will be an opportunity to participate from
 all over the world at little or no cost.
 
-Taking into account th different time zones of the participants, we plan to carry
+Taking into account the different time zones of the participants, we plan to carry
 out the conference during the week of 23-27 November in the time from UTC 14:00 until
 16:30.
 
@@ -36,7 +36,7 @@ research topic or project – not just what you did, but also how you did it?
 For this SWIB rendition we adjusted the formats to the online environment:
 
 - Presentations (20 minutes plus 5 q&a)
-- Practical workshop or tutorial with hands-on or instructional learning (90-120 min)
+- Practical workshops or tutorials with hands-on or instructional learning (maximum 120 min)
 
 We appreciate proposals on the following or related topics:
 
@@ -70,7 +70,7 @@ Standards & Best Practices
     * open data licensing
 
 We are looking forward to receiving your proposals for presentations or
-workshops by *20 July 2020*. Please submit an abstract of 1000-1500 characters
+workshops by **13 July 2020**. Please submit an abstract of 1000-1500 characters
 using our conference system at https://www.conftool.org/swib20. If you intend to
 present a specific software solution please include links to the source code
 repository and make sure it is openly licensed
