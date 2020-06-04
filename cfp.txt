@@ -1,22 +1,19 @@
-Subject: [CfP] SWIB20 - 12th Semantic Web in Libraries Conference, Bonn, 23-25 November
-
-Call for Proposals: SWIB20 - 12th Semantic Web in Libraries Conference
-23.11. - 25.11.2020, Bonn, Germany
-
-Submission Deadline: 12 May 2020
+Call for Proposals: SWIB20 online conference - 12th Semantic Web in Libraries Conference
+23.11. - 27.11.2020, UTC 14:00-16:30
+Submission Deadline: 13 July 2020
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 12th time. With the ongoing Corona/Covid-19 pandemic and the
-restrictions to the freedom of movement and assembly in many countries, we
-currently don’t know if it will be possible to hold it this year as a classical
-conference with participants appearing in-person at the venue and engaging in
-workshops and conference talks. Taking this uncertainty into account, we will
-continue planning for a physical conference in Bonn to be flanked by
-opportunities of online participation for all those who may not be able to
-attend. In addition, we will prepare for the case that physical event has to be
-cancelled and replaced by an online-only format. Our aim is that everyone with
-an interest in SWIB20 will be able to present and listen to presentations and
-deepen their skills in workshops, one way or other.
+for the 12th time.
+
+Due to the Covid-19 pandemic, we cannot be sure that travelling and meeting
+face-to-face will be possible for everybody in the community by November. Therefore,
+we have decided to hold SWIB20 within the scheduled timeframe not in Bonn, Germany,
+but for the first time on the web. This will be an opportunity to participate from
+all over the world at little or no cost.
+
+Taking into account the different time zones of the participants, we plan to carry
+out the conference during the week of 23-27 November in the time from UTC 14:00 until
+16:30.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
 It is well established as an event where IT staff, developers, librarians, and
@@ -33,8 +30,11 @@ English.
 
 Would you like to share your experiences working on an interesting service,
 research topic or project – not just what you did, but also how you did it?
-Would you like to offer a hands-on pre-conference tutorial or workshop on the
-afternoon of November 23?
+
+For this SWIB rendition we adjusted the formats to the online environment:
+
+- Presentations (20 minutes plus 5 q&a)
+- Practical workshops or tutorials (maximum 120 min)
 
 We appreciate proposals on the following or related topics:
 
@@ -68,7 +68,7 @@ Standards & Best Practices
     * open data licensing
 
 We are looking forward to receiving your proposals for presentations or
-workshops by *12 May 2020*. Please submit an abstract of 1000-1500 characters
+workshops by **13 July 2020**. Please submit an abstract of 1000-1500 characters
 using our conference system at https://www.conftool.org/swib20. If you intend to
 present a specific software solution please include links to the source code
 repository and make sure it is openly licensed
@@ -91,9 +91,8 @@ Proposals will be reviewed by the SWIB programme committee:
     * Katherine Thornton (Yale University Library, USA) 
     * Jakob Voß (GBV Common Library Network, Germany)
 
-We also have space left for satellite events in the morning of November 25.
-Contact us if you want to seize the opportunity to get together in the context
-of SWIB20.
+If you are interested in using the online conference infrastructure for a satellite
+event before or after the conference slot, let us know.
 
 Website: http://swib.org/swib20
 Hashtag: #swib20
