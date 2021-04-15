@@ -1,14 +1,14 @@
-Call for Proposals: SWIB20 online conference - 12th Semantic Web in Libraries Conference
+Call for Proposals: SWIB21 online conference - 13th Semantic Web in Libraries Conference
 23.11. - 27.11.2020, UTC 14:00-16:30
-Submission Deadline: 13 July 2020
+Submission Deadline: ???
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 12th time.
+for the 13th time.
 
 Due to the Covid-19 pandemic, we cannot be sure that travelling and meeting
 face-to-face will be possible for everybody in the community by November. Therefore,
-we have decided to hold SWIB20 within the scheduled timeframe not in Bonn, Germany,
-but for the first time on the web. This will be an opportunity to participate from
+we have decided to hold SWIB21 within the scheduled timeframe not in Berlin, Germany,
+but for the second time on the web. This will be an opportunity to participate from
 all over the world at little or no cost.
 
 Taking into account the different time zones of the participants, we plan to carry
@@ -23,7 +23,7 @@ and creating tools and software for LOD production scenarios. These areas of
 focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB20 will be organized by the ZBW - German National Library of
+As usual, SWIB21 will be organized by the ZBW - German National Library of
 Economics / Leibniz Information Centre for Economics and the North
 Rhine-Westphalian Library Service Centre (hbz). The conference language is
 English.
@@ -69,7 +69,7 @@ Standards & Best Practices
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **13 July 2020**. Please submit an abstract of 1000-1500 characters
-using our conference system at https://www.conftool.org/swib20. If you intend to
+using our conference system at https://www.conftool.org/swib21. If you intend to
 present a specific software solution please include links to the source code
 repository and make sure it is openly licensed
 (https://opensource.org/licenses).
@@ -94,22 +94,22 @@ Proposals will be reviewed by the SWIB programme committee:
 If you are interested in using the online conference infrastructure for a satellite
 event before or after the conference slot, let us know.
 
-Website: http://swib.org/swib20
-Hashtag: #swib20
+Website: http://swib.org/swib21
+Hashtag: #swib21
 Twitter: @swibcon
  
-Take a look at previous SWIB conferences at http://swib.org/swib20/history.
+Take a look at previous SWIB conferences at http://swib.org/swib21/history.
  
 Please don't hesitate to ask if you have any questions:
- 
-Adrian Pohl
-hbz
-Tel. +49-(0)221-40075235
-E-mail: swib(at)hbz-nrw.de
-
-or
 
 Joachim Neubert
 ZBW
 Tel. +49-(0)40-42834462
 E-mail: j.neubert(at)zbw.eu
+
+or
+
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
+E-mail: swib(at)hbz-nrw.de
