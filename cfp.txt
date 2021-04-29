@@ -1,6 +1,6 @@
 Call for Proposals: SWIB21 online conference - 13th Semantic Web in Libraries Conference
-29.11. - 3.12.2021, UTC 14:00-16:30
-Submission Deadline: 28.06.2021
+29 November - 03 December 2021, UTC 14:00-16:30
+Submission Deadline: 28 June
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
 for the 13th time.
@@ -16,7 +16,7 @@ UTC 14:00 until 16:30.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
 It is well established as an event where IT staff, developers, librarians, and
-researchers from over the world meet and mingle and learn from each other. The
+researchers from all over the world meet and mingle and learn from each other. The
 topics of talks and workshops at SWIB revolve around opening data, linking data
 and creating tools and software for LOD production scenarios. These areas of
 focus are supplemented by presentations of research projects in applied
