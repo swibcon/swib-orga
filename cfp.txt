@@ -1,17 +1,17 @@
-Call for Proposals: SWIB21 online conference - 13th Semantic Web in Libraries Conference
-29 November - 03 December 2021, UTC 14:00-16:30
+Call for Proposals: SWIB22 online conference - 13th Semantic Web in Libraries Conference
+28 November - 02 December 2022, UTC 14:00-16:30
 Submission Deadline: 28 June
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 13th time.
+for the 14th time.
 
 Due to the Covid-19 pandemic, we cannot be sure that travelling and meeting
 face-to-face will be possible for everybody in the community by November. Therefore,
-we have decided to hold SWIB21 the second time on the web. This will be an
+we have decided to hold SWIB22 the second time on the web. This will be an
 opportunity to easily participate from all over the world.
 
 Taking into account the different time zones of the participants, we plan to carry
-out the conference during the week of 29 November - 03 December in the time from 
+out the conference during the week of 28 November - 02 December in the time from 
 UTC 14:00 until 16:30.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
@@ -22,7 +22,7 @@ and creating tools and software for LOD production scenarios. These areas of
 focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB21 will be organized by the ZBW - German National Library of
+As usual, SWIB22 will be organized by the ZBW - German National Library of
 Economics / Leibniz Information Centre for Economics and the North
 Rhine-Westphalian Library Service Centre (hbz). The conference language is
 English.
@@ -32,7 +32,7 @@ research topic or project – not just what you did, but also how you did it?
 
 For this SWIB rendition we adjusted the formats to the online environment:
 
-- Presentations (15 minutes plus 5 q&a), pre-recorded talks are encouraged
+- Presentations (15 minutes plus 5 q&a) [???], pre-recorded talks are encouraged
 - Practical workshops or tutorials (maximum 150 min, including breaks), 
   introductory tutorials are very welcome
 
@@ -68,18 +68,19 @@ Standards & Best Practices
     * open data licensing
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **28 June 2021**. Please submit an abstract of 1000-1500 characters
-using our conference system at https://www.conftool.org/swib21. If you intend to
+workshops by **28 June 2022**[???]. Please submit an abstract of 1000-1500 characters
+using our conference system at https://www.conftool.org/swib22. If you intend to
 present a specific software solution please include links to the source code
 repository and make sure it is openly licensed
 (https://opensource.org/licenses).
 
 Proposals will be reviewed by the SWIB programme committee:
 
+  [???]
     * Julia Beck (Frankfurt University Library)
     * Uldis Bojars (National Library of Latvia)
     * Valentine Charles (Europeana Foundation, Netherlands)
-    * Huda Khan, (Cornell University Library, USA)
+    * Hsuda Khan, (Cornell University Library, USA)
     * Niklas Lindström (National Library of Sweden)
     * Devika Madalli (Indian Statistical Institute)
     * Joachim Neubert (ZBW, Germany - Chair)
@@ -94,11 +95,11 @@ Proposals will be reviewed by the SWIB programme committee:
 If you are interested in using the online conference infrastructure for a satellite
 event before or after the conference slot, let us know.
 
-Website: http://swib.org/swib21
-Hashtag: #swib21
+Website: http://swib.org/swib22
+Hashtag: #swib22
 Twitter: @swibcon
  
-Take a look at previous SWIB conferences at http://swib.org/swib21/history.
+Take a look at previous SWIB conferences at http://swib.org/swib22/history.
  
 Please don't hesitate to ask if you have any questions:
 
