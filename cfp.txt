@@ -1,18 +1,18 @@
-Call for Proposals: SWIB22 online conference - 13th Semantic Web in Libraries Conference
+Call for Proposals: SWIB22 online conference - 14th Semantic Web in Libraries Conference
 28 November - 02 December 2022, UTC 14:00-16:30
 Submission Deadline: 28 June
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
 for the 14th time.
 
-Due to the Covid-19 pandemic, we cannot be sure that travelling and meeting
-face-to-face will be possible for everybody in the community by November. Therefore,
-we have decided to hold SWIB22 the second time on the web. This will be an
-opportunity to easily participate from all over the world.
+Due to the Covid-19 pandemic, we cannot be sure that by November travelling
+and meeting face-to-face will be possible for everybody in the community.
+Therefore, we have decided to hold SWIB22 the second time on the web.
+This will offer everybody an opportunity to easily participate from all over the world.
 
 Taking into account the different time zones of the participants, we plan to carry
-out the conference during the week of 28 November - 02 December in the time from 
-UTC 14:00 until 16:30.
+out the conference during the week of 28 November - 02 December, daily from 
+UTC 14:00 to 16:30.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
 It is well established as an event where IT staff, developers, librarians, and
@@ -22,10 +22,9 @@ and creating tools and software for LOD production scenarios. These areas of
 focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB22 will be organized by the ZBW - German National Library of
-Economics / Leibniz Information Centre for Economics and the North
-Rhine-Westphalian Library Service Centre (hbz). The conference language is
-English.
+As usual, SWIB22 will be organized by ZBW - Leibniz Information Centre for Economics
+and the North Rhine-Westphalian Library Service Centre (hbz). The conference language
+is English.
 
 Would you like to share your experiences working on an interesting service,
 research topic or project – not just what you did, but also how you did it?
@@ -80,7 +79,7 @@ Proposals will be reviewed by the SWIB programme committee:
     * Julia Beck (Frankfurt University Library)
     * Uldis Bojars (National Library of Latvia)
     * Valentine Charles (Europeana Foundation, Netherlands)
-    * Hsuda Khan, (Cornell University Library, USA)
+    * Huda Khan (Cornell University Library, USA)
     * Niklas Lindström (National Library of Sweden)
     * Devika Madalli (Indian Statistical Institute)
     * Joachim Neubert (ZBW, Germany - Chair)
@@ -101,7 +100,7 @@ Twitter: @swibcon
  
 Take a look at previous SWIB conferences at http://swib.org/swib22/history.
  
-Please don't hesitate to ask if you have any questions:
+Please do not hesitate to ask if you have any questions:
 
 Joachim Neubert
 ZBW
