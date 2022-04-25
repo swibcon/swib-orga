@@ -59,12 +59,14 @@ Technology (focus on Open Source software)
 
 Standards & Best Practices
 
+    * implementation of the FAIR principles
     * open web standards relevant for libraries
     * application profiles & provenance information
     * usable APIs
     * providing updates & syncing data sources
     * preservation & sustainability
     * open data licensing
+    * building communities around open source projects
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **28 June 2022**[???]. Please submit an abstract of 1000-1500 characters
