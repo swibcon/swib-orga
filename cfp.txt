@@ -81,7 +81,8 @@ Proposals will be reviewed by the SWIB programme committee:
 
     * Julia Beck (Frankfurt University Library)
     * Uldis Bojars (National Library of Latvia)
-    * Valentine Charles (Europeana Foundation, Netherlands)
+    * Nuno Freire (Europeana Foundation, Netherlands)
+    * Anna Kasprzik (ZBW, Germany)
     * Huda Khan (Cornell University Library, USA)
     * Niklas Lindström (National Library of Sweden)
     * Devika Madalli (Indian Statistical Institute)
