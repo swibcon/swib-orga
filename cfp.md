@@ -85,6 +85,8 @@ licensed](https://opensource.org/licenses).
 
 Proposals will be reviewed by the programme committee:
 
+::: committee
+
 * Julia Beck (Frankfurt University Library)
 * Uldis Bojars (National Library of Latvia)
 * Nuno Freire (Europeana Foundation, Netherlands)
@@ -100,6 +102,10 @@ Proposals will be reviewed by the programme committee:
 * Osma Suominen (National Library of Finland)
 * Katherine Thornton (Yale University Library, USA) 
 * Jakob Voß (GBV Common Library Network, Germany)
+
+:::
+
+### Call for satellite events
 
 If you are interested in using the online conference infrastructure for a
 satellite event before or after the conference slot, let us know.
