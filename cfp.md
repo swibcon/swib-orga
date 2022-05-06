@@ -1,4 +1,4 @@
-# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference  
+# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference<br>
 28 November – 02 December 2022, online, daily, UTC 14:00–16:30
 
 **Submission Deadline: 27 June 2022**
@@ -103,8 +103,8 @@ Proposals will be reviewed by the programme committee:
 If you are interested in using the online conference infrastructure for a
 satellite event before or after the conference slot, let us know.
 
-**Website**: http://swib.org/swib22  
-**Hashtag**: #swib22  
+**Website**: http://swib.org/swib22<br>
+**Hashtag**: #swib22<br>
 **Twitter**: @swibcon
  
 Take a look at previous SWIB conferences at http://swib.org/swib22/history.
@@ -112,15 +112,15 @@ Take a look at previous SWIB conferences at http://swib.org/swib22/history.
 Please do not hesitate to ask if you have any questions:
 
 
-Adrian Pohl  
-hbz  
-Tel. +49-(0)221-40075235  
+Adrian Pohl<br>
+hbz<br>
+Tel. +49-(0)221-40075235<br>
 E-mail: swib(at)hbz-nrw.de
 
 or
 
-Joachim Neubert  
-ZBW  
-Tel. +49-(0)40-42834462  
+Joachim Neubert<br>
+ZBW<br>
+Tel. +49-(0)40-42834462<br>
 E-mail: j.neubert(at)zbw.eu
 
