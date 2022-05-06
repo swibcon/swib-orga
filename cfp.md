@@ -1,5 +1,6 @@
-# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference<br>
-28 November – 02 December 2022, online, daily, UTC 14:00–16:30
+# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference
+
+## 28 November – 02 December 2022, online
 
 **Submission Deadline: 27 June 2022**
 
