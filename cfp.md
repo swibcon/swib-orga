@@ -1,5 +1,5 @@
-# Call for Proposals: SWIB22 online conference – 14th Semantic Web in Libraries Conference\
-28 November – 02 December 2022, online, daily UTC 14:00–16:30
+# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference  
+28 November – 02 December 2022, online, daily, UTC 14:00–16:30
 
 **Submission Deadline: 27 June 2022**
 
@@ -25,7 +25,7 @@ sciences, industry applications, and LOD activities in other areas.
 
 As usual, SWIB22 will be organized by [ZBW – Leibniz Information Centre for
 Economics](https://www.zbw.eu/en) and the [North Rhine-Westphalian Library
-Service Centre (hbz)](https://www.hbz-nrw.de/).  The conference language is
+Service Centre (hbz)](https://www.hbz-nrw.de/). The conference language is
 English.
 
 Would you like to share your experiences working on an interesting service,
@@ -38,7 +38,7 @@ For this SWIB rendition we adjusted the formats to the online environment:
 
 We appreciate proposals on the following or related topics:
 
-Projects & Applications
+### Projects & Applications
 
 * integration of LOD into productive library applications
 * re-use of LOD (from libraries, Wikidata and other sources)
@@ -47,7 +47,7 @@ Projects & Applications
 * crowdsourcing/gamification approaches involving LOD sources
 * applications for open science
 
-Technology (focus on Open Source software)
+### Technology (focus on Open Source software)
 
 * data transformation/integration/cleansing/enhancement/mapping/interlinking
 * data flow management
@@ -57,7 +57,7 @@ Technology (focus on Open Source software)
 * machine learning for automatic indexing & named entity recognition
 * integration of symbolic and subsymbolic approaches
 
-Standards & Best Practices
+### Standards & Best Practices
 
 * implementation of FAIR data principles
 * open web standards relevant for libraries
@@ -66,7 +66,7 @@ Standards & Best Practices
 * usable APIs
 * preservation, maintenance & sustainability
 
-Culture
+### Culture
 
 * collaboration, community building and empowerment
 * consolidating open source projects
@@ -74,12 +74,15 @@ Culture
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **27 June 2022**. Please submit an abstract of 1000–1500
-characters using our conference system at https://www.conftool.org/swib22.
+characters using our [conference system](https://www.conftool.org/swib22).
 If you intend to present a specific software solution please include links
-to the source code repository and make sure it is openly licensed
-(https://opensource.org/licenses).
+to the source code repository and make sure it is [openly
+licensed](https://opensource.org/licenses).
 
-Proposals will be reviewed by the **SWIB programme committee**:
+
+### SWIB programme committee
+
+Proposals will be reviewed by the programme committee:
 
 * Julia Beck (Frankfurt University Library)
 * Uldis Bojars (National Library of Latvia)
@@ -100,8 +103,8 @@ Proposals will be reviewed by the **SWIB programme committee**:
 If you are interested in using the online conference infrastructure for a
 satellite event before or after the conference slot, let us know.
 
-**Website**: http://swib.org/swib22\
-**Hashtag**: #swib22\
+**Website**: http://swib.org/swib22  
+**Hashtag**: #swib22  
 **Twitter**: @swibcon
  
 Take a look at previous SWIB conferences at http://swib.org/swib22/history.
@@ -109,15 +112,15 @@ Take a look at previous SWIB conferences at http://swib.org/swib22/history.
 Please do not hesitate to ask if you have any questions:
 
 
-Adrian Pohl\
-hbz\
-Tel. +49-(0)221-40075235\
+Adrian Pohl  
+hbz  
+Tel. +49-(0)221-40075235  
 E-mail: swib(at)hbz-nrw.de
 
 or
 
-Joachim Neubert\
-ZBW\
-Tel. +49-(0)40-42834462\
+Joachim Neubert  
+ZBW  
+Tel. +49-(0)40-42834462  
 E-mail: j.neubert(at)zbw.eu
 
