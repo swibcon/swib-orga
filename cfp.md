@@ -1,6 +1,8 @@
-# Call for Proposals: SWIB22 – 14th Semantic Web in Libraries Conference
+# SWIB22 – 14th Semantic Web in Libraries Conference
 
 ## 28 November – 02 December 2022, online
+
+## Call for Proposals:
 
 **Submission Deadline: 27 June 2022**
 
@@ -24,13 +26,10 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB22 will be organized by [ZBW – Leibniz Information Centre for
-Economics](https://www.zbw.eu/en) and the [North Rhine-Westphalian Library
-Service Centre (hbz)](https://www.hbz-nrw.de/). The conference language is
+As usual, SWIB22 will be organized by **[ZBW – Leibniz Information Centre for
+Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
+Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
-
-Would you like to share your experiences working on an interesting service,
-research topic or project – not just what you did, but also how you did it?
 
 For this SWIB rendition we adjusted the formats to the online environment:
 
@@ -75,7 +74,7 @@ We appreciate proposals on the following or related topics:
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **27 June 2022**. Please submit an abstract of 1000–1500
-characters using our [conference system](https://www.conftool.org/swib22).
+characters using our conference system **https://www.conftool.org/swib22**.
 If you intend to present a specific software solution please include links
 to the source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
@@ -100,7 +99,7 @@ Proposals will be reviewed by the programme committee:
 * Jodi Schneider (University of Illinois at Urbana-Champaign, USA)
 * MJ Suhonos (Ryerson University, Canada)
 * Osma Suominen (National Library of Finland)
-* Katherine Thornton (Yale University Library, USA) 
+* Katherine Thornton (Yale University Library, USA)
 * Jakob Voß (GBV Common Library Network, Germany)
 
 :::
@@ -113,9 +112,9 @@ satellite event before or after the conference slot, let us know.
 **Website**: http://swib.org/swib22<br>
 **Hashtag**: #swib22<br>
 **Twitter**: @swibcon
- 
+
 Take a look at previous SWIB conferences at http://swib.org/swib22/history.
- 
+
 Please do not hesitate to ask if you have any questions:
 
 
