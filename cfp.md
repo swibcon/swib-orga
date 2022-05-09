@@ -114,7 +114,8 @@ satellite event before or after the conference slot, let us know.
 **Hashtag**: #swib22<br>
 **Twitter**: @swibcon
 
-Take a look at previous SWIB conferences at http://swib.org/swib22/history.
+Take a look at previous SWIB conferences at
+[https://swib.org/swib22/history](https://swib.org/swib22/history).
 
 Please do not hesitate to ask if you have any questions:
 
