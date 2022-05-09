@@ -2,7 +2,7 @@
 
 ## 28 November – 02 December 2022, online
 
-## Call for Proposals:
+## Call for Proposals
 
 **Submission Deadline: 27 June 2022**
 
@@ -75,7 +75,7 @@ We appreciate proposals on the following or related topics:
 We are looking forward to receiving your proposals for presentations or
 workshops by **27 June 2022**. Please submit an abstract of 1000–1500
 characters using our conference system
-**[https://www.conftool.org/swib22](https://www.conftool.org/swib22)**. If you
+[https://www.conftool.org/swib22](https://www.conftool.org/swib22). If you
 intend to present a specific software solution please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
