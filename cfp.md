@@ -98,7 +98,7 @@ Proposals will be reviewed by the programme committee:
 * Adrian Pohl (hbz, Germany - Chair)
 * Dorothea Salo (UW-Madison, USA)
 * Jodi Schneider (University of Illinois at Urbana-Champaign, USA)
-* MJ Suhonos (Ryerson University, Canada)
+* MJ Suhonos (Toronto Metropolitan University, Canada)
 * Osma Suominen (National Library of Finland)
 * Katherine Thornton (Yale University Library, USA)
 * Jakob Voß (GBV Common Library Network, Germany)
