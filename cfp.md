@@ -4,7 +4,7 @@
 
 ## Call for Proposals
 
-**Submission Deadline: 27 June 2022**
+**Submission Deadline (extended): 11 July 2022**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
 for the 14th time.
@@ -73,7 +73,7 @@ We appreciate proposals on the following or related topics:
 * awareness of Western bias, decolonialization
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **27 June 2022**. Please submit an abstract of 1000–1500
+workshops by **11 July 2022**. Please submit an abstract of 1000–1500
 characters using our conference system
 [https://www.conftool.org/swib22](https://www.conftool.org/swib22). If you
 intend to present a specific software solution please include links to the
