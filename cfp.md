@@ -110,7 +110,7 @@ Proposals will be reviewed by the programme committee:
 If you are interested in using the online conference infrastructure for a
 satellite event before or after the conference slot, let us know.
 
-**Website**: https://swib.org/swib22\
+**Website**: https://swib.org/swib22 \
 **Hashtag**: #swib22\
 **Twitter**: @swibcon
 
