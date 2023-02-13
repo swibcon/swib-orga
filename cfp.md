@@ -24,12 +24,12 @@ Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
 Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
 
-For this SWIB rendition we will have more interactive formats to yield the most
-from participants coming together physically in one place. As usual, we will 
-also have presentations and workshops:
+For this SWIB rendition we will have more interactive formats in order to get
+the most out of participants coming together physically in one place.
+As usual, we will also have presentations and workshops:
 
-* Presentations (20 minutes plus 5 q&a)
-* Practical workshops or tutorials (around 2-4 hours including breaks)
+* presentations (20 minutes plus 5 q&a)
+* practical workshops or tutorials (around 2–4 hours including breaks)
 
 We appreciate proposals on the following or related topics:
 
@@ -115,10 +115,10 @@ Take a look at previous SWIB conferences at
 Please do not hesitate to ask if you have any questions:
 
 
-Joachim Neubert\
+Anna Kasprzik\
 ZBW\
-Tel. +49-(0)40-42834462\
-E-mail: j.neubert(at)zbw.eu
+Tel. +49-(0)40-42834425\
+E-mail: a.kasprzik(at)zbw.eu
 
 or
 
@@ -126,3 +126,10 @@ Adrian Pohl\
 hbz\
 Tel. +49-(0)221-40075235\
 E-mail: swib(at)hbz-nrw.de
+
+or 
+
+Joachim Neubert\
+ZBW\
+Tel. +49-(0)40-42834462\
+E-mail: j.neubert(at)zbw.eu
