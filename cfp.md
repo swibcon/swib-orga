@@ -24,10 +24,12 @@ Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
 Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
 
-For this SWIB rendition we adjusted the formats to the online environment:
+For this SWIB rendition we will have more interactive formats to yield the most
+from participants coming together physically in one place. As usual, we will 
+also have presentations and workshops:
 
 * Presentations (20 minutes plus 5 q&a)
-* Practical workshops or tutorials (maximum 150 min, including breaks), introductory tutorials are very welcome
+* Practical workshops or tutorials (around 2-4 hours including breaks)
 
 We appreciate proposals on the following or related topics:
 
@@ -100,7 +102,7 @@ Proposals will be reviewed by the programme committee:
 
 ### Call for satellite events
 
-If you are interested in using the online conference infrastructure for a
+If you are interested in using the conference venue for a
 satellite event before or after the conference slot, let us know.
 
 **Website**: https://swib.org/swib23 \
