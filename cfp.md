@@ -1,22 +1,15 @@
-# SWIB22 – 14th Semantic Web in Libraries Conference
+# SWIB23 – 15th Semantic Web in Libraries Conference
 
-## 28 November – 02 December 2022, online
+## 11 – 13 September 2023, Berlin
 
 ## Call for Proposals
 
-**Submission Deadline (extended): 11 July 2022**
+**Submission Deadline (extended): 10 April 2023**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 14th time.
-
-Due to the Covid-19 pandemic, we cannot be sure that by November travelling and
-meeting face-to-face will be possible for everybody in the community.
-Therefore, we have decided to hold SWIB22 online for the third time.  This will
-offer everybody an opportunity to easily participate from all over the world.
-
-Taking into account the different time zones of the participants, we plan to
-carry out the conference during the week of 28 November – 02 December, daily
-from UTC 14:00 to 16:30.
+for the 15th time. After three years of convening online due to the Covid-9 
+pandemic, we are happy to gather in-person once again – and for the first time 
+in Berlin.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
 It is well established as an event where IT staff, developers, librarians, and
@@ -26,7 +19,7 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB22 will be organized by **[ZBW – Leibniz Information Centre for
+As usual, SWIB23 will be organized by **[ZBW – Leibniz Information Centre for
 Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
 Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
@@ -73,9 +66,9 @@ We appreciate proposals on the following or related topics:
 * awareness of Western bias, decolonialization
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **11 July 2022**. Please submit an abstract of 1000–1500
+workshops by **10 April 2023**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib22](https://www.conftool.org/swib22). If you
+[https://www.conftool.org/swib23](https://www.conftool.org/swib23). If you
 intend to present a specific software solution please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
@@ -110,25 +103,24 @@ Proposals will be reviewed by the programme committee:
 If you are interested in using the online conference infrastructure for a
 satellite event before or after the conference slot, let us know.
 
-**Website**: https://swib.org/swib22 \
-**Hashtag**: #swib22\
-**Twitter**: @swibcon
+**Website**: https://swib.org/swib23 \
+**Hashtag**: #swib23\
+**Mastodon**: [@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
-[https://swib.org/swib22/history](https://swib.org/swib22/history).
+[https://swib.org/swib23/history](https://swib.org/swib23/history).
 
 Please do not hesitate to ask if you have any questions:
 
-
-Adrian Pohl\
-hbz\
-Tel. +49-(0)221-40075235\
-E-mail: swib(at)hbz-nrw.de
-
-or
 
 Joachim Neubert\
 ZBW\
 Tel. +49-(0)40-42834462\
 E-mail: j.neubert(at)zbw.eu
 
+or
+
+Adrian Pohl\
+hbz\
+Tel. +49-(0)221-40075235\
+E-mail: swib(at)hbz-nrw.de
