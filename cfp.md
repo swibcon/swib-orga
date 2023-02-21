@@ -40,32 +40,29 @@ We appreciate proposals on the following or related topics:
 * presenting & visualizing LOD
 * end-user environments for interaction with LOD (e.g. editing or annotation)
 * crowdsourcing/gamification approaches involving LOD sources
-* applications for open science
+* (other) applications in the context of open science
 
-### Technology (focus on Open Source software)
+### Technology & Tools (focus on Open Source software)
 
-* data transformation/integration/cleansing/enhancement/mapping/interlinking
-* data flow management
-* RDF validation
-* read/write linked data
-* providing updates & syncing data sources
-* machine learning for automatic indexing & named entity recognition
+* data transformation/integration/cleansing/enhancement/mapping/interlinking/validation
+* data flow management, read/write linked data, providing updates & syncing data sources
+* machine learning applications in/for libraries
 * integration of symbolic and subsymbolic approaches
 
 ### Standards & Best Practices
 
-* implementation of FAIR data principles
-* open web standards relevant for libraries
+* implementation of FAIR data principles, interoperability
+* open web standards relevant for libraries, data models, usable APIs
 * application profiles & provenance information
-* working with authorities & knowledge organization systems
-* usable APIs
+* working with controlled vocabularies & knowledge organization systems
 * preservation, maintenance & sustainability
 
 ### Culture
 
-* collaboration, community building and empowerment
+* decentralization, federated structures
 * consolidating open source projects
-* awareness of Western bias, decolonialization
+* collaboration, community building and empowerment
+* diversity sensitivity, equity, inclusion, and accessibility
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **10 April 2023**. Please submit an abstract of 1000–1500
