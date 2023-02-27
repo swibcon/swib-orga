@@ -4,7 +4,7 @@
 
 ## Call for Proposals
 
-**Submission Deadline (extended): 10 April 2023**
+**Submission Deadline: 10 April 2023**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
 for the 15th time. After three years of convening online due to the Covid-19 
