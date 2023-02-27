@@ -28,7 +28,7 @@ For this SWIB rendition we will have more interactive formats in order to get
 the most out of participants coming together physically in one place.
 As usual, we will also have presentations and workshops:
 
-* presentations (20 minutes plus 5 q&a)
+* presentations (20 minutes plus 5 minutes Q&A)
 * practical workshops or tutorials (around 2–4 hours including breaks)
 
 We appreciate proposals on the following or related topics:
@@ -38,8 +38,7 @@ We appreciate proposals on the following or related topics:
 * integration of LOD into productive library applications
 * re-use of LOD (from libraries, Wikidata and other sources)
 * presenting & visualizing LOD
-* end-user environments for interaction with LOD (e.g. editing or annotation)
-* crowdsourcing/gamification approaches involving LOD sources
+* graphical user interfaces for interaction with LOD (e.g. editing or annotation)
 * (other) applications in the context of open science
 
 ### Technology & Tools (focus on Open Source software)
@@ -61,7 +60,7 @@ We appreciate proposals on the following or related topics:
 
 * decentralization, federated structures
 * consolidating open source projects
-* collaboration, community building and empowerment
+* collaboration, crowdsourcing, community building and empowerment
 * diversity sensitivity, equity, inclusion, and accessibility
 
 We are looking forward to receiving your proposals for presentations or
@@ -82,12 +81,12 @@ Proposals will be reviewed by the programme committee:
 * Julia Beck (Frankfurt University Library)
 * Uldis Bojars (National Library of Latvia)
 * Nuno Freire (Europeana Foundation, Netherlands)
-* Anna Kasprzik (ZBW, Germany)
-* Huda Khan (Cornell University Library, USA)
+* Anna Kasprzik (ZBW, Germany – Chair)
+* Huda Khan (Stanford University, USA)
 * Niklas Lindström (National Library of Sweden)
 * Devika Madalli (Indian Statistical Institute)
-* Joachim Neubert (ZBW, Germany - Chair)
-* Adrian Pohl (hbz, Germany - Chair)
+* Joachim Neubert (ZBW, Germany)
+* Adrian Pohl (hbz, Germany – Chair)
 * Dorothea Salo (UW-Madison, USA)
 * Jodi Schneider (University of Illinois at Urbana-Champaign, USA)
 * MJ Suhonos (Toronto Metropolitan University, Canada)
@@ -123,10 +122,3 @@ Adrian Pohl\
 hbz\
 Tel. +49-(0)221-40075235\
 E-mail: swib(at)hbz-nrw.de
-
-or 
-
-Joachim Neubert\
-ZBW\
-Tel. +49-(0)40-42834462\
-E-mail: j.neubert(at)zbw.eu
