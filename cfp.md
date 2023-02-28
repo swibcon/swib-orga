@@ -26,10 +26,7 @@ English.
 
 For this SWIB rendition we will have more interactive formats in order to get
 the most out of participants coming together physically in one place.
-As usual, we will also have presentations and workshops:
-
-* presentations (20 minutes plus 5 minutes Q&A)
-* practical workshops or tutorials (around 2–4 hours including breaks)
+As usual, we will also have presentations and workshops.
 
 We appreciate proposals on the following or related topics:
 
