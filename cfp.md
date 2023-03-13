@@ -63,7 +63,7 @@ We appreciate proposals on the following or related topics:
 We are looking forward to receiving your proposals for presentations or
 workshops by **10 April 2023**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib23](https://www.conftool.org/swib23) (available soon). If you
+[https://www.conftool.org/swib23](https://www.conftool.org/swib23) (available now). If you
 intend to present a specific software solution, please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
