@@ -16,8 +16,8 @@
    width="638.59998"
    height="229.7375"
    viewBox="0 0 638.59998 229.7375"
-   sodipodi:docname="swib23-logo.svg"
-   inkscape:export-filename="/home/acka47/git/swib-orga/logos/swib23-logo.png"
+   sodipodi:docname="swib24-logo.svg"
+   inkscape:export-filename="/home/acka47/git/swib-orga/swib24/logos/swib24-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -37,8 +37,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.0053242"
-     inkscape:cx="-41.468061"
-     inkscape:cy="15.095181"
+     inkscape:cx="225.14998"
+     inkscape:cy="-24.692979"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,6 +63,7 @@
 
 
 
+
 </g><g
          id="g20"
          transform="scale(10,10)"><text
@@ -80,6 +81,7 @@
 
 
 
+
 </g><g
          id="g26"
          transform="scale(10,10)"><text
@@ -91,6 +93,7 @@
      sodipodi:role="line"
      id="tspan30"
      style="font-size:46px;line-height:1.25">Semantic Web in Libraries</tspan></text>
+
 
 
 
