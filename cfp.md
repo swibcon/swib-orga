@@ -1,15 +1,14 @@
-# SWIB23 – 15th Semantic Web in Libraries Conference
+# SWIB24 – 16th Semantic Web in Libraries Conference
 
-## 11 – 13 September 2023, Berlin
+## 25 – 27 November 2024, online
 
 ## Call for Proposals
 
-**Submission Deadline: 10 April 2023**
+**Submission Deadline: 26 May 2024**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 15th time. After three years of convening online due to the Covid-19 
-pandemic, we are happy to gather in-person once again – and for the first time 
-in Berlin.
+for the 16th time. SWIB24 will happen online to ensure inclusion of as many
+participants as possible while minimizing the ecological footprint of the conference.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
 It is well established as an event where IT staff, developers, librarians, and
@@ -19,14 +18,15 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB23 will be organized by **[ZBW – Leibniz Information Centre for
+As usual, SWIB24 will be organized by **[ZBW – Leibniz Information Centre for
 Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
 Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
 
-For this SWIB rendition we will have more interactive formats in order to get
-the most out of participants coming together physically in one place.
-As usual, we will also have presentations and workshops/tutorials.
+We are accepting proposals for two formats:
+
+- Presentations (2o minutes plus 5 q&a)
+- Practical workshops or tutorials (maximum 4h, including breaks), introductory tutorials are very welcome
 
 We appreciate proposals on the following or related topics:
 
@@ -61,9 +61,9 @@ We appreciate proposals on the following or related topics:
 * diversity sensitivity, equity, inclusion, and accessibility
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **10 April 2023**. Please submit an abstract of 1000–1500
+workshops by **26 May 2024**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib23](https://www.conftool.org/swib23). If you
+[https://www.conftool.org/swib24](https://www.conftool.org/swib24). If you
 intend to present a specific software solution, please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
@@ -93,29 +93,25 @@ Proposals will be reviewed by the programme committee:
 
 :::
 
-### Call for satellite events
 
-If you are interested in using the conference venue for a
-satellite event before or after the conference slot, let us know.
-
-**Website**: https://swib.org/swib23 \
-**Hashtag**: #swib23\
+**Website**: https://swib.org/swib24 \
+**Hashtag**: #swib24\
 **Mastodon**: [@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
-[https://swib.org/swib23/history](https://swib.org/swib23/history).
+[https://swib.org/swib24/history](https://swib.org/swib24/history).
 
 Please do not hesitate to ask if you have any questions:
 
-
-Anna Kasprzik\
-ZBW\
-Tel. +49-(0)40-42834425\
-E-mail: a.kasprzik(at)zbw.eu
-
-or
 
 Adrian Pohl\
 hbz\
 Tel. +49-(0)221-40075235\
 E-mail: swib(at)hbz-nrw.de
+
+or
+
+Anna Kasprzik\
+ZBW\
+Tel. +49-(0)40-42834425\
+E-mail: a.kasprzik(at)zbw.eu
