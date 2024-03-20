@@ -25,7 +25,7 @@ English.
 
 We are accepting proposals for two formats:
 
-- Presentations (2o minutes plus 5 q&a)
+- Presentations (20 minutes plus 5 q&a)
 - Practical workshops or tutorials (maximum 4h, including breaks), introductory tutorials are very welcome
 
 We appreciate proposals on the following or related topics:
@@ -114,4 +114,4 @@ or
 Anna Kasprzik\
 ZBW\
 Tel. +49-(0)40-42834425\
-E-mail: a.kasprzik(at)zbw.eu
+E-mail: a.kasprzik(at)zbw-online.eu
