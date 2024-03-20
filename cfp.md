@@ -82,7 +82,6 @@ Proposals will be reviewed by the programme committee:
 * Huda Khan (Stanford University, USA)
 * Niklas Lindström (National Library of Sweden)
 * Devika Madalli (Indian Statistical Institute)
-* Joachim Neubert (ZBW, Germany)
 * Adrian Pohl (hbz, Germany – Chair)
 * Dorothea Salo (UW-Madison, USA)
 * Jodi Schneider (University of Illinois at Urbana-Champaign, USA)
