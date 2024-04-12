@@ -28,6 +28,8 @@ We are accepting proposals for two formats:
 - Presentations (20 minutes plus 5 q&a)
 - Practical workshops or tutorials (maximum 4h, including breaks), introductory tutorials are very welcome
 
+The presentations will be held in the time from 14:00 to 17:00 UTC. **Note that we will support three different time slots for workshops to accommodate workshop facilitators and participants from different time zones (East Asia/Australia, Europe/Africa, Americas).**
+
 We appreciate proposals on the following or related topics:
 
 ### Projects & Applications
