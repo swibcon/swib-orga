@@ -77,7 +77,7 @@ Proposals will be reviewed by the programme committee:
 
 ::: committee
 
-* Julia Beck (Frankfurt University Library)
+* Julia Beck (University of Gothenburg, Sweden)
 * Uldis Bojars (National Library of Latvia)
 * Nuno Freire (Europeana Foundation, Netherlands)
 * Anna Kasprzik (ZBW, Germany – Chair)
