@@ -100,7 +100,7 @@ Proposals will be reviewed by the programme committee:
 **Mastodon**: [@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
-[https://swib.org/swib24/history](https://swib.org/swib24/history).
+[https://swib.org/swib24/history.html](https://swib.org/swib24/history.html).
 
 Please do not hesitate to ask if you have any questions:
 
