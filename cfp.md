@@ -97,7 +97,7 @@ Proposals will be reviewed by the programme committee:
 
 **Website**: https://swib.org/swib24 \
 **Hashtag**: #swib24\
-**Mastodon**: [@swib@openbiblio.social](https://openbiblio.social/@swib)
+**Mastodon**: [\@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
 [https://swib.org/swib24/history.html](https://swib.org/swib24/history.html).
