@@ -18,9 +18,9 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB24 will be organized by **[ZBW – Leibniz Information Centre for
-Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
-Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
+As usual, SWIB24 will be organized by the **[North Rhine-Westphalian Library
+Service Centre (hbz)](https://www.hbz-nrw.de/)** and **[ZBW – Leibniz Information Centre for
+Economics](https://www.zbw.eu/en)**. The conference language is
 English.
 
 We are accepting proposals for two formats:
