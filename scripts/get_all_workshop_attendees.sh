@@ -17,7 +17,7 @@ echo "$(date) : Start curling ${base_url}/c/${category_id}.json"
 # from category page
 topic_ids=$(curl -sL ${base_url}/c/${category_id}.json | jq -r '.topic_list.topics[] | select(.tags[] | startswith("ws-")).id' | uniq)
 
-all_workshop_attenders=()
+all_workshop_attendees=()
 
 for topic_id in ${topic_ids[@]}
 do
@@ -26,12 +26,12 @@ do
 	
 	for user in ${users[@]}
 	do
-		all_workshop_attenders+=( "$user going $topic_id" )
+		all_workshop_attendees+=( "$user going $topic_id" )
 	done
 done
 
 # print output to file
-printf '%s\n' "${all_workshop_attenders[@]}" | sort -k1 > all_workshop_attenders.csv
+printf '%s\n' "${all_workshop_attendees[@]}" | sort -k1 > all_workshop_attendees.csv
 
 echo "$(date) : Finished!"
 
