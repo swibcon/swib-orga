@@ -47,7 +47,7 @@ do
 	awk -F' ' '$1 in first{print first[$1] $0; first[$1]=""; next} {first[$1]=$0 ORS}' workshop_attendees_$slot_name.csv > multiple_workshops_attendees_$slot_name.csv
 	
 	# print markdown including links
-	awk -v var="$base_url" '{$1 = "["$1"]("var"u/"$1")"; $3 = "["$3"]("var"t/"$3")";  print}' multiple_workshops_attendees_$slot_name.csv > multiple_workshops_attendees_$slot_name.md
+	awk -v var="$base_url" '{$1 = "["$1"]("var"/u/"$1")"; $3 = "["$3"]("var"/t/"$3")";  print}' multiple_workshops_attendees_$slot_name.csv > multiple_workshops_attendees_$slot_name.md
 
 done
 
