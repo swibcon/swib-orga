@@ -61,6 +61,7 @@ We appreciate proposals on the following or related topics:
 * consolidating open source projects
 * collaboration, crowdsourcing, community building and empowerment
 * diversity sensitivity, equity, inclusion, and accessibility
+* the role of open information infrastructures in sustaining democracy
 
 We are looking forward to receiving your proposals for presentations or
 workshops by **23 May 2025**. Please submit an abstract of 1000–1500
