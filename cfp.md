@@ -80,7 +80,7 @@ Proposals will be reviewed by the programme committee:
 * Julia Beck (University of Gothenburg, Sweden)
 * Uldis Bojars (National Library of Latvia)
 * Nuno Freire (Europeana Foundation, Netherlands)
-* Anna Kasprzik (ZBW, Germany – Chair)
+* Argie Kasprzik (ZBW, Germany – Chair)
 * Huda Khan (Stanford University, USA)
 * Niklas Lindström (National Library of Sweden)
 * Devika Madalli (Indian Statistical Institute)
@@ -104,9 +104,9 @@ Take a look at previous SWIB conferences at
 
 Please do not hesitate to ask if you have any questions:
 
-Anna Kasprzik\
+Argie Kasprzik\
 ZBW\
-Tel. +49-(0)40-42834425\
+Tel. +49-(0)173 3986387\
 E-mail: a.kasprzik(at)zbw.eu
 
 or
