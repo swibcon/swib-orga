@@ -1,13 +1,13 @@
-# SWIB24 – 16th Semantic Web in Libraries Conference
+# SWIB25 – 17th Semantic Web in Libraries Conference
 
-## 25 – 27 November 2024, online
+## 17 – 19 November 2025, online
 
 ## Call for Proposals
 
-**Submission Deadline: 26 May 2024**
+**Submission Deadline: 23 May 2025**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 16th time. SWIB24 will happen online to ensure inclusion of as many
+for the 17th time. SWIB25 will happen online to ensure inclusion of as many
 participants as possible while minimizing the ecological footprint of the conference.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
@@ -18,9 +18,9 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB24 will be organized by the **[North Rhine-Westphalian Library
-Service Centre (hbz)](https://www.hbz-nrw.de/)** and **[ZBW – Leibniz Information Centre for
-Economics](https://www.zbw.eu/en)**. The conference language is
+As usual, SWIB25 will be organized by **[ZBW – Leibniz Information Centre for
+Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
+Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
 
 We are accepting proposals for two formats:
@@ -63,9 +63,9 @@ We appreciate proposals on the following or related topics:
 * diversity sensitivity, equity, inclusion, and accessibility
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **26 May 2024**. Please submit an abstract of 1000–1500
+workshops by **23 May 2025**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib24](https://www.conftool.org/swib24). If you
+[https://www.conftool.org/swib25](https://www.conftool.org/swib25). If you
 intend to present a specific software solution, please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
@@ -95,24 +95,23 @@ Proposals will be reviewed by the programme committee:
 :::
 
 
-**Website**: https://swib.org/swib24 \
-**Hashtag**: #swib24\
+**Website**: https://swib.org/swib25 \
+**Hashtag**: #swib25\
 **Mastodon**: [\@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
-[https://swib.org/swib24/history.html](https://swib.org/swib24/history.html).
+[https://swib.org/swib25/history.html](https://swib.org/swib25/history.html).
 
 Please do not hesitate to ask if you have any questions:
 
+Anna Kasprzik\
+ZBW\
+Tel. +49-(0)40-42834425\
+E-mail: a.kasprzik(at)zbw.eu
+
+or
 
 Adrian Pohl\
 hbz\
 Tel. +49-(0)221-40075235\
 E-mail: swib(at)hbz-nrw.de
-
-or
-
-Anna Kasprzik\
-ZBW\
-Tel. +49-(0)40-42834425\
-E-mail: a.kasprzik(at)zbw-online.eu
