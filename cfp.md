@@ -1,13 +1,13 @@
-# SWIB25 – 17th Semantic Web in Libraries Conference
+# SWIB26 – 18th Semantic Web in Libraries Conference
 
-## 17 – 19 November 2025, online
+## 16 – 18 November 2026, online
 
 ## Call for Proposals
 
-**Submission Deadline: 23 May 2025**
+**Submission Deadline: 18 May 2026**
 
 SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 17th time. SWIB25 will happen online to ensure inclusion of as many
+for the 18th time. SWIB26 will happen online to ensure inclusion of as many
 participants as possible while minimizing the ecological footprint of the conference.
 
 SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
@@ -18,7 +18,7 @@ data and creating tools and software for LOD production scenarios. These areas
 of focus are supplemented by presentations of research projects in applied
 sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB25 will be organized by **[ZBW – Leibniz Information Centre for
+As usual, SWIB26 will be organized by **[ZBW – Leibniz Information Centre for
 Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
 Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
 English.
@@ -64,9 +64,9 @@ We appreciate proposals on the following or related topics:
 * the role of open information infrastructures in sustaining democracy
 
 We are looking forward to receiving your proposals for presentations or
-workshops by **23 May 2025**. Please submit an abstract of 1000–1500
+workshops by **18 May 2026**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib25](https://www.conftool.org/swib25). If you
+[https://www.conftool.org/swib26](https://www.conftool.org/swib26). If you
 intend to present a specific software solution, please include links to the
 source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
@@ -88,7 +88,6 @@ Proposals will be reviewed by the programme committee:
 * Adrian Pohl (hbz, Germany – Chair)
 * Dorothea Salo (UW-Madison, USA)
 * Jodi Schneider (University of Illinois at Urbana-Champaign, USA)
-* MJ Suhonos (Toronto Metropolitan University, Canada)
 * Osma Suominen (National Library of Finland)
 * Katherine Thornton (Yale University Library, USA)
 * Jakob Voß (GBV Common Library Network, Germany)
@@ -96,23 +95,23 @@ Proposals will be reviewed by the programme committee:
 :::
 
 
-**Website**: https://swib.org/swib25 \
-**Hashtag**: #swib25\
+**Website**: https://swib.org/swib26 \
+**Hashtag**: #swib26\
 **Mastodon**: [\@swib@openbiblio.social](https://openbiblio.social/@swib)
 
 Take a look at previous SWIB conferences at
-[https://swib.org/swib25/history.html](https://swib.org/swib25/history.html).
+[https://swib.org/history](https://swib.org/history).
 
 Please do not hesitate to ask if you have any questions:
-
-Argie Kasprzik\
-ZBW\
-Tel. +49-(0)173 3986387\
-E-mail: a.kasprzik(at)zbw.eu
-
-or
 
 Adrian Pohl\
 hbz\
 Tel. +49-(0)221-40075235\
 E-mail: swib(at)hbz-nrw.de
+
+or
+
+Argie Kasprzik\
+ZBW\
+Tel. +49-(0)173 3986387\
+E-mail: a.kasprzik(at)zbw.eu
