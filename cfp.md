@@ -67,9 +67,11 @@ We appreciate proposals on the following or related topics:
 We are looking forward to receiving your proposals for presentations or
 workshops by **18 May 2026**. Please submit an abstract of 1000–1500
 characters using our conference system
-[https://www.conftool.org/swib26](https://www.conftool.org/swib26). If you
-intend to present a specific software solution, please include links to the
-source code repository and make sure it is [openly
+[https://www.conftool.org/swib26](https://www.conftool.org/swib26).
+Note: Submissions that are wholly or partially LLM-generated will
+be immediately rejected.
+If you intend to present a specific software solution, please include
+links to the source code repository and make sure it is [openly
 licensed](https://opensource.org/licenses).
 
 
