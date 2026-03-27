@@ -45,6 +45,7 @@ We appreciate proposals on the following or related topics:
 * data transformation/integration/cleansing/enhancement/mapping/interlinking/validation
 * data flow management, read/write linked data, providing updates & syncing data sources
 * machine learning applications in/for libraries
+* utilisation of open (weight) LLMs
 * integration of symbolic and subsymbolic approaches
 
 ### Standards & Best Practices
@@ -58,7 +59,7 @@ We appreciate proposals on the following or related topics:
 ### Culture
 
 * decentralization, federated structures
-* consolidating open source projects
+* reducing reliance on proprietary solutions through open approaches
 * collaboration, crowdsourcing, community building and empowerment
 * diversity sensitivity, equity, inclusion, and accessibility
 * the role of open information infrastructures in sustaining democracy
