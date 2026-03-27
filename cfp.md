@@ -45,7 +45,7 @@ We appreciate proposals on the following or related topics:
 * data transformation/integration/cleansing/enhancement/mapping/interlinking/validation
 * data flow management, read/write linked data, providing updates & syncing data sources
 * machine learning applications in/for libraries
-* utilisation of open source (open weight) LLMs
+* utilisation of open source (open weight) LLMs and SLMs
 * integration of symbolic and subsymbolic approaches
 
 ### Standards & Best Practices
