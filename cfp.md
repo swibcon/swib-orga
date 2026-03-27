@@ -81,6 +81,7 @@ Proposals will be reviewed by the programme committee:
 
 ::: committee
 
+* Stacy Allison-Cassin (Dalhousie University, Canada)
 * Julia Beck (University of Gothenburg, Sweden)
 * Uldis Bojars (National Library of Latvia)
 * Nuno Freire (Europeana Foundation, Netherlands)
