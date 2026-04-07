@@ -45,7 +45,8 @@ We appreciate proposals on the following or related topics:
 * data transformation/integration/cleansing/enhancement/mapping/interlinking/validation
 * data flow management, read/write linked data, providing updates & syncing data sources
 * machine learning applications in/for libraries
-* utilisation of open source (open weight) LLMs and SLMs
+* utilisation of LLMs and SLMs (with a focus on open source or open weight models)
+* agentic AI in libraries
 * integration of symbolic and subsymbolic approaches
 
 ### Standards & Best Practices
@@ -70,9 +71,9 @@ characters using our conference system
 [https://www.conftool.org/swib26](https://www.conftool.org/swib26).
 Note: Submissions that are wholly or partially LLM-generated will
 be immediately rejected.
-If you intend to present a specific software solution, please include
-links to the source code repository and make sure it is [openly
-licensed](https://opensource.org/licenses).
+If you intend to present a specific software solution and/or generative AI approach,
+please include links to the source code repository and make sure the code and models
+are [openly licensed](https://opensource.org/licenses).
 
 
 ### SWIB programme committee
