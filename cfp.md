@@ -6,22 +6,11 @@
 
 **Submission Deadline: 18 May 2026**
 
-SWIB conference (Semantic Web in Libraries) is an annual conference, being held
-for the 18th time. SWIB26 will happen online to ensure inclusion of as many
-participants as possible while minimizing the ecological footprint of the conference.
+SWIB conference (Semantic Web in Libraries) is an annual conference, being held for the 18th time. SWIB26 will happen online to ensure inclusion of as many participants as possible while minimizing the ecological footprint of the conference.
 
-SWIB focuses on Linked Open Data (LOD) in libraries and related organizations.
-It is well established as an event where IT staff, developers, librarians, and
-researchers from all over the world meet and mingle and learn from each other.
-The topics of talks and workshops at SWIB revolve around opening data, linking
-data and creating tools and software for LOD production scenarios. These areas
-of focus are supplemented by presentations of research projects in applied
-sciences, industry applications, and LOD activities in other areas.
+SWIB focuses on Linked Open Data (LOD) in libraries and related organizations. It is well established as an event where IT staff, developers, librarians, and researchers from all over the world meet and mingle and learn from each other. The topics of talks and workshops at SWIB revolve around opening data, linking data and creating tools and software for LOD production scenarios. These areas of focus are supplemented by presentations of research projects in applied sciences, industry applications, and LOD activities in other areas.
 
-As usual, SWIB26 will be organized by **[ZBW – Leibniz Information Centre for
-Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library
-Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is
-English.
+As usual, SWIB26 will be organized by **[ZBW – Leibniz Information Centre for Economics](https://www.zbw.eu/en)** and the **[North Rhine-Westphalian Library Service Centre (hbz)](https://www.hbz-nrw.de/)**. The conference language is English.
 
 We are accepting proposals for two formats:
 
@@ -65,22 +54,14 @@ We appreciate proposals on the following or related topics:
 * diversity sensitivity, equity, inclusion, and accessibility
 * the role of open information infrastructures in sustaining democracy
 
-We are looking forward to receiving your proposals for presentations or
-workshops by **18 May 2026**. Please submit an abstract of 1000–1500
-characters using our conference system
-[https://www.conftool.org/swib26](https://www.conftool.org/swib26).
-Note: Submissions that are wholly or partially LLM-generated will
-be immediately rejected.
-If you intend to present a specific software solution and/or generative AI approach,
-please include links to the source code repository and make sure the code and models
-are [openly licensed](https://opensource.org/licenses).
+We are looking forward to receiving your proposals for presentations or workshops by **18 May 2026**. Please submit an abstract of 1000–1500 characters using our conference system [https://www.conftool.org/swib26](https://www.conftool.org/swib26).
+Note: Submissions that are wholly or partially LLM-generated will be immediately rejected.
+If you intend to present a specific software solution and/or generative AI approach, please include links to the source code repository and make sure the code and models are [openly licensed](https://opensource.org/licenses).
 
 
 ### SWIB programme committee
 
 Proposals will be reviewed by the programme committee:
-
-::: committee
 
 * Stacy Allison-Cassin (Dalhousie University, Canada)
 * Julia Beck (University of Gothenburg, Sweden)
@@ -97,26 +78,22 @@ Proposals will be reviewed by the programme committee:
 * Katherine Thornton (Yale University Library, USA)
 * Jakob Voß (GBV Common Library Network, Germany)
 
-:::
-
-
-**Website**: https://swib.org/swib26 \
-**Hashtag**: #swib26\
+**Website**: <https://swib.org/swib26>
+**Hashtag**: `#swib26`
 **Mastodon**: [\@swib@openbiblio.social](https://openbiblio.social/@swib)
 
-Take a look at previous SWIB conferences at
-[https://swib.org/history](https://swib.org/history).
+Take a look at previous SWIB conferences at [https://swib.org/history](https://swib.org/history).
 
 Please do not hesitate to ask if you have any questions:
 
-Adrian Pohl\
-hbz\
-Tel. +49-(0)221-40075235\
+Adrian Pohl
+hbz
+Tel. +49-(0)221-40075235
 E-mail: swib(at)hbz-nrw.de
 
 or
 
-Argie Kasprzik\
-ZBW\
-Tel. +49-(0)173 3986387\
+Argie Kasprzik
+ZBW
+Tel. +49-(0)173 3986387
 E-mail: a.kasprzik(at)zbw.eu
